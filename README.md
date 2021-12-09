@@ -1,1 +1,10 @@
-# Assignment_6
+# Assignment_6![Simulator Screen Shot - iPhone 6s - 2021-12-09 at 17 00 21](https://user-images.githubusercontent.com/63149524/145389441-44f9c021-65ac-401d-8483-d9a1c2f224ca.png)
+![Simulator Screen Shot - iPhone 6s - 2021-12-09 at 17 00 34](https://user-images.githubusercontent.com/63149524/145389467-46a02004-16a0-4260-8454-1348896c7420.png)
+![Simulator Screen Shot - iPhone 6s - 2021-12-09 at 17 00 47](https://user-images.githubusercontent.com/63149524/145389500-7f1c5f12-c645-4603-adb1-8a38a537a770.png)
+![Simulator Screen Shot - iPhone 6s - 2021-12-09 at 17 00 50](https://user-images.githubusercontent.com/63149524/145389505-3520ea71-b500-4042-a3bc-7572b7c20629.png)
+![Simulator Screen Shot - iPhone 6s - 2021-12-09 at 17 00 54](https://user-images.githubusercontent.com/63149524/145389510-1c6a47d7-77d5-408c-a664-04f8f8666cd9.png)
+![Simulator Screen Shot - iPhone 6s - 2021-12-09 at 17 01 02](https://user-images.githubusercontent.com/63149524/145389512-d9271915-fa19-47b5-aaed-c6f75c208dbc.png)
+![Simulator Screen Shot - iPhone 6s - 2021-12-09 at 17 01 05](https://user-images.githubusercontent.com/63149524/145389514-beeef03b-b4a6-4d67-a99d-fd435e8f15a3.png)
+![Simulator Screen Shot - iPhone 6s - 2021-12-09 at 17 01 08](https://user-images.githubusercontent.com/63149524/145389516-076aafdf-2b59-4d7a-8407-359577c57866.png)
+![Simulator Screen Shot - iPhone 6s - 2021-12-09 at 17 01 13](https://user-images.githubusercontent.com/63149524/145389521-efbe4c63-6d72-42d2-98d8-f91a0150997f.png)
+![Simulator Screen Shot - iPhone 6s - 2021-12-09 at 17 07 33](https://user-images.githubusercontent.com/63149524/145389865-2dcd2886-b463-4baf-bf87-7b1ba517910a.png)
